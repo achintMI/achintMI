@@ -41,18 +41,11 @@
 - 📊 **Scale**: Built systems handling high-volume transactions during major events
 - 🔧 **DevOps**: Established comprehensive CI/CD and monitoring infrastructure
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=achintMi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=achintMi&theme=radical&hide_border=false)
-
 ## 🔥 Current Focus:
 - 🤖 Building AI-powered applications and data pipelines
 - ☁️ Cloud-native architecture and microservices
 - 📈 Performance optimization and scalability
 - 🔐 Secure payment systems and fintech solutions
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=achintMi&label=Profile%20Views&color=0&icon=0&pretty=true)
